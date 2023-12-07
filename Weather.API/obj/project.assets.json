@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\repos\\Wheater\\Weather.API\\Weather.API.csproj",
+      "projectUniqueName": "G:\\repos\\Weather\\Weather.API\\Weather.API.csproj",
       "projectName": "Weather.API",
-      "projectPath": "G:\\repos\\Wheater\\Weather.API\\Weather.API.csproj",
+      "projectPath": "G:\\repos\\Weather\\Weather.API\\Weather.API.csproj",
       "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "G:\\repos\\Wheater\\Weather.API\\obj\\",
+      "outputPath": "G:\\repos\\Weather\\Weather.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
